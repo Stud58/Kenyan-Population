@@ -1,0 +1,19 @@
+streamlit==1.35.0
+
+ altair==5.3.0
+
+ jsonschema==4.22.0
+
+ jsonschema-specifications==2023.12.1
+
+ pandas==2.2.2
+
+ python-dateutil==2.9.0.post0
+
+ referencing==0.35.1
+
+ folium==0.17.0
+
+geopandas==1.0.1
+
+streamlit-folium==0.22.0
